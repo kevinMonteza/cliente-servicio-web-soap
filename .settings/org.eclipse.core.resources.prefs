@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/soap/model/BeanLogin.java=UTF-8
+encoding//src/com/soap/service/ImplLogin.java=UTF-8
+encoding//src/com/soap/service/ImplLoginService.java=UTF-8
+encoding//src/com/soap/service/ImplLoginServiceLocator.java=UTF-8
+encoding//src/com/soap/service/ImplLoginSoapBindingStub.java=UTF-8
